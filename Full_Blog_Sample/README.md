@@ -4,7 +4,7 @@
 
   
 **_Learned_**  
-> _How to create a Hero Page_ 
+> _How to create a Hero Page_  
 _How to create a Navigation Bar_
 _Use Link Nextjs component_
 _Use props_
