@@ -4,15 +4,15 @@ import { verifyPassword } from "../../../lib/auth";
 import { connectToDatabase } from "../../../lib/db";
 
 export default NextAuth({
-  session:{
-    jwt = true
+  session: {
+    jwt: true,
   },
   providers: [
     Providers.Credentials({
       async authorize(credentials) {
         const client = await connectToDatabase();
 
-        const userCollection = client.db.collection("users");
+        const userCollection = client.db().collection("users");
 
         const user = await userCollection.findOne({ email: credentials.email });
 
