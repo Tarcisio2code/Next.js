@@ -27,4 +27,5 @@ https://next-auth.js.org/getting-started/rest-api
 https://www.npmjs.com/package/bcryptjs  
 
 
-* According Maximilian Schwarzmüller class at Udemy
+
+*_According Maximilian Schwarzmüller class at Udemy_
