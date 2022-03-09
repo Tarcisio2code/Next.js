@@ -11,7 +11,7 @@ _Using NextAuth package_
 _Implement users Signup and Login_  
 _Encrypt with bcryptjs third party package_  
 _Using mongoDB_  
-_Fetch from API (POST and )_  
+_Fetch from API (POST and PATCH)_  
 _Get form data with useRef_  
 _Async functions_  
 _How to create Credentials Auth Provider_  
