@@ -21,7 +21,7 @@ _How to Protect API Routes_
 _Usage Session Provider Component_  
 _Using props_  
 
-* Documentation;  
+_Documentation_;  
 https://next-auth.js.org  
 https://next-auth.js.org/getting-started/rest-api  
 https://www.npmjs.com/package/bcryptjs  
